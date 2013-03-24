@@ -12,5 +12,11 @@ aside > .collapsed-sections {
         display: block;
     }
 }
-aside > section{
+
+.social-box {
+    background: $img-border bottom left repeat-x;
+}
+
+aside > section > h1 {
+    color: lighten($text-color, 20);
 }
