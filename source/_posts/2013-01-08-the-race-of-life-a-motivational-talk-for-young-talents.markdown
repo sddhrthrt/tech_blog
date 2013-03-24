@@ -4,6 +4,7 @@ title: "The race of life - A motivational talk for young talents"
 date: 2013-01-08 00:24
 comments: true
 categories: motivation
+published: false
 ---
 
 The other day, I was asked (or rather, I volunteered, seeing the need for it) to
