@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Winter School 2012 (2)"
+date: 2012-12-11 20:45
+comments: true
+categories: experience
+---
+
+Well, I should say days are going better than I expected. It's been studious, informative,
+and I've been exposed to huge amounts of knowledge. It's righted all the wrongs that 
+happened in the IISc during last summer, to start with at least.
+
+To begin with, [Carolyn][carolyn] has been speaking about cutting edge research (analysis?) that they
+are doing in their University. It's been sheer awesome to see the kinds of work they do. They
+simply motivate you to look harder, solve bigger problems and tackle tougher questions.
+<!--more-->
+
+Then we come back to presenting our own idea to the members of our small, peaceful track. We might
+not be (or may be) a bunch of super intelligent bunch, but we have been giving some ideas and 
+[Bhiksha][bhiksha] has been giving great feedback. He took a large part in deciding on one of the three 
+problems. Partly because of his own interest, he chose us to do some work on Raaga Recognition - 
+yes, I know it's not even on yesterday's list! Today, me and Madhumita (my team member) were
+discussing about the idea in the morning when it suddenly occurred to us that it's possible to
+do something like recognising ragas from music. Classical music! Yes, that excited me easily.
+Even Bhiksha went as far as calling it a 'cute' idea!
+
+So now we are asked to study about 'structure discovery' stuff like that, and the [paper][paper]s that 
+were written by one Matthew Brand are just going over my head. I decided to get accustomed with all 
+the probability-related terms that come in the paper. So I decided to take help of the infinitely 
+awesome Introduction to Artificial Intelligence course taken by 
+[Peter Norvig][peter] and [Sebastian Thrun][sebastian] (oh, do read up about him - brilliant guy!)
+that's available [here][aiclasses].
+
+Now, I'm a little better after watching 50 or so lectures (oh, they are small and they have 
+questions popping in the end of the videos that you have to answer on the video!). Going back to
+room (sick of this room - and the number in the room has increased, and all are new).
+
+I hope to be able to present the paper that I am to read. 
+
+I'm kinda lost. I'm kinda enjoying it too.
+ 
+[aiclasses]: ai-class.com
+[paper]: http://merl.com/papers/docs/TR98-19.pdf
+[bhiksha]: http://mlsp.cs.cmu.edu/people/bhiksha/
+[carolyn]: http://www.cs.cmu.edu/~cprose/
+[peter]: http://en.wikipedia.org/wiki/Peter_Norvig
+[sebastian]: http://en.wikipedia.org/wiki/Sebastian_Thrun

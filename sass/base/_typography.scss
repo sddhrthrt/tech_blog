@@ -5,11 +5,11 @@
 }
 
 $blockquote: $type-border !default;
-$sans: "Lato", sans-serif;
-$serif: "Lato", sans-serif;
+$sans: "Arvo", sans-serif;
+$serif: "Arvo", sans-serif;
 $mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace !default;
-$heading-font-family: 'Lato', sans-serif;
-$header-title-font-family: "League", Helvetica, Arial, sans-serif;
+$heading-font-family: 'Merriweather', sans-serif;
+$header-title-font-family: "Arvo", Helvetica, Arial, sans-serif;
 $header-subtitle-font-family: $heading-font-family !default;
 
 
@@ -31,6 +31,7 @@ body > header h1 {
 }
 body > header h2 {
   font-family: $header-subtitle-font-family;
+  padding-left: 8px;
 }
 
 body {

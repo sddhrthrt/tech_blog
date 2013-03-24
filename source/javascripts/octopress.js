@@ -38,6 +38,24 @@ function addSidebarToggler() {
   if (sections.length >= 3){ $('aside.sidebar').addClass('thirds'); }
 }
 
+function collapseSidebarItems(){
+    var sections = $('aside.sidebar > section');
+    sections.each(function(section, index){
+        $(section).addClass("collapsed-sections");
+        $($(section).children()[0]).addClass("toggleSidebarItemExpansion");
+    });
+    $(".toggleSidebarItemExpansion").click(function(e){
+        if($(this.parentNode).hasClass('collapsed-sections')){
+            $(this.parentNode).removeClass('collapsed-sections');
+        }else{
+            $(this.parentNode).addClass('collapsed-sections');
+        }
+    });
+        
+}
+
+
+
 function testFeatures() {
   var features = ['maskImage'];
   $(features).map(function(feature) {
@@ -122,7 +140,8 @@ $.domReady(function() {
   flashVideoFallback();
   addCodeLineNumbers();
   getNav();
-  addSidebarToggler();
+  //addSidebarToggler();
+  collapseSidebarItems();
 });
 
 // iOS scaling bug fix
