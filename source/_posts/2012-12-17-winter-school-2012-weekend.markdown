@@ -1,13 +1,13 @@
 ---
-published: false
+published: true 
 layout: post
 title: "Winter School 2012 (Weekend!)"
 date: 2012-12-17 14:31
 comments: true
-categories: weekend fun experience
+categories: experience memoir
 ---
 
-Then came the weekend. Like a spring that lost a huge attached weight, I sprang
+Here comes the weekend. Like a spring that lost a huge attached weight, I sprang
 to my usual mode - relax, tv, roam, eat, chat. 
 
 The weekend actually began with the program on Friday - _TGIF_!
@@ -19,10 +19,9 @@ of smileys - :-) - [Scott Fahlman][scott].
 
 The night was spent watching random videos, and the best find was the kid [Jack Vedgen][jack].
 Simply amazing. After being amazed, I sleep at 4AM, wake up at 11AM and realize that I was all alone.
-
-The food hunt in Mathikere went on without incident, just because there were no eateries. Ah, there are.
-One whose kitchen we pass by every day and I know the internals. OctopressOctopressOctopress
+Rest of the weekend was simply spent lazing around, roaming with friends and
+sleeping. The week has taken a toll on me.
 
 [jack]: http://www.youtube.com/watch?v=Wupr-p96i68
-[david]:
+[david]: http://cs.cmu.edu/~dadamson
 [scott]: http://en.wikipedia.org/wiki/Scott_Fahlman

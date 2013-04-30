@@ -3,7 +3,7 @@ layout: post
 title: "Not a college, it's a society"
 date: 2013-01-14 22:27
 comments: true
-categories: philosophy college life society
+categories: philosophy memoir
 ---
 
 Today, like many other days, was eventful, joyous, memorable. As I decided to
