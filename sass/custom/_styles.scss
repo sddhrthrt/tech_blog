@@ -20,3 +20,6 @@ aside > .collapsed-sections {
 aside > section > h1 {
     color: lighten($text-color, 20);
 }
+hgroup > h2 {
+    font-style: italic;
+}
