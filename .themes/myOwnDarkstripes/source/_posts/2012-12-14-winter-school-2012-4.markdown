@@ -1,0 +1,39 @@
+---
+published: false
+layout: post
+title: "Winter School 2012 (4)"
+date: 2012-12-13 06:02
+comments: true
+categories: experience memoir
+---
+These posts are the only way I keep track of days nowadays. I don't have any idea 
+what day it is, what time it is for most part of the day. It's surprisingly 
+good to spend time without actually worrying about the guilty feeling that
+I'm not doing anything. Maybe I'm well behind the required progress in Winter
+School, but I'm well ahead of my own capabilities - and I'm trying to stretch.
+<!--more-->
+Even today was similar, beginning with a great talk about [NMF][nmf] about which
+I'll write one day - after implementing it, probably. [Rita][rita] was brilliant
+as usual, taking everyone through a journey into sound signals and their properties
+and showing how to play with them.
+
+Day progressed as I tried to make some Python code work, without succeeding. I would 
+like to see some more code and do some more progress by the end of today, so I can
+show [Bhiksha][bhiksha] something. 
+
+In the evening, he explained to us - oh, I don't even remember what - [Maximum _a priori_ 
+Estimation][map]. He started with the concept, and came up with an elegant model. But I 
+couldn't understand some of it - or atleast, I couldn't wrap my head around the big 
+picture - which left me stammering on stage when I was asked to explain. Then,
+he went on to explain it. I hope to understand some of it today, and implement it slowly.
+
+Life changing as it may be, it is difficult too. Some more effort would make it 
+a real success.
+
+Bye, folks.
+
+
+[bhiksha]: http://mlsp.cs.cmu.edu/people/bhiksha/
+[rita]: http://mlsp.cs.cmu.edu/people/rsingh
+[map]: http://en.wikipedia.org/wiki/Maximum_a_posteriori
+[nmf]: http://en.wikipedia.org/wiki/Non-negative_matrix_factorization

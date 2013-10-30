@@ -1,0 +1,86 @@
+---
+layout: post
+title: "New Year"
+date: 2013-01-01 02:01
+comments: true
+categories: motivation
+---
+### One year passed.
+
+I made some [resolutions][post] last year. I'll quickly review them:
+
+I scored some good scores, but I think the awesome winter should make
+up for the bad semester. I learnt a whole lot in Python, but never a step in ruby.
+I took up a worthy project. I blogged quite regularly.
+
+On the other hand, I didn't keep to a fitness regime. I didn't build any code, probably.
+And I didn't take one single step towards that goal - learning a foreign language. French, my love!
+<!-- more -->
+
+### Ups and Downs.
+
+I had a good semester, a bad vacation. A bad semester again, then a great winter. Overall, it's been
+a fancy ride. Spent a lot of time with friends, went on awesome trips and even did some circus, but 
+all ended well.
+
+### New friends, lost gems.
+
+Ah, winter and summer. Countless ones, it'd be bad if I failed to mention some. So I wont try at all. 
+But one could look at my [facebook][facebook] activities and easily find out who were the people.
+
+Sachin, Dravid, Laxman, Ponting and many more disappear from the glorious green grounds. Atleast, with 
+their gloves and pads on, taking stance on the crease. Dravid finds himself comfortable in front of the 
+camera already.
+
+I cant remember the countless other gems the world lost, either in action, or from life. I'll try and mention
+them as time goes and I miss them.
+
+
+### Aging memories.
+
+Now NITK has become old, the fateful summer long past, a bad semester behind me, and everything seems
+to be fading. I don't want to forget how bright the other side was - trips, LNG, birthdays, etc. But one
+can't stop the tides or time. 
+
+
+### Sweet and sour moments.
+
+There are way too many, but I have the curse of forgetting (blessing in disguise). I can't even remember
+the moments, but when I remember the sweet ones, I'm elated. I also take my lessons from the sour ones.
+
+
+### Broken promises, gritty decisions.
+
+Including the resolutions, and several others that I took on the trot. 
+
+Like the earth around the sun, life goes one full circle.
+This time around, let's make it better, more memorable and more beautiful.
+
+## Resolutions 2013
+
+Resolutions for this year are as follows, I'll refine them as time passes
+
+* Finish the project taken up in Winter School.
+Take it to the logical conclusion, whatever it is, and try to put my best into it.
+
+* Apply for the best offers I can get for the summer.
+This includes CMU, Google SOC, or anything else.
+
+* Improve my English, learn a foreign language (French?)
+This has been on the list for too long now.
+
+* Score a perfect 10 - whoa, that's a little over-ambitious, but aiming at stars I'll
+atleast reach the moon.
+
+* Be punctual, not procrastinating and, borrowing from a blog, be proactive. I'll 
+elaborate on this when I get time. 
+
+This year is going to be the most important year of my life, and whatever turns and twists my life
+will take, will be decided by this year. So I need to in the best of my form and capacity, which I
+will try to do.
+
+Any feedback is welcome.
+
+[post]: http://sid-rt.blogspot.in/2011_12_01_archive.html
+[facebook]: https://facebook.com/siddhartha.thota
+
