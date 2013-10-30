@@ -7,7 +7,7 @@ title: "the Ephemeral Me"
 subtitle: "ephemeral (adj) lasting for only a short time; transitory; transient;"
 author: Siddhartha R Thota
 simple_search: http://google.com/search
-description:
+description: A web blog for thoughts on code, life and everything so I can store them before I forget them. 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -95,7 +95,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id: UA-36548793-1
+google_analytics_tracking_id: UA-36548793-2
 
 # Facebook Like
 facebook_like: false 
