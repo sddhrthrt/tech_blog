@@ -11,8 +11,7 @@ Until I make an app to organize these bits of knowledge (wait, that might be a
 worthy project in itself), I am going to store them here.
 
 <!-- more -->
-<hr />
-### iPython inside virtualenv
+## iPython inside virtualenv
 
 Launching iPython inside virtualenv creates problems - it doesn't obey the
 restrictions placed by virtualenv about restricting itself inside the virtual
@@ -26,14 +25,12 @@ virtual environment, thanks to [Hatem Nassrat](https://coderwall.com/p/xdox9a).
 alias ipy="python -c 'import IPython;
 IPython.frontend.terminal.ipapp.launch_new_instance()'"
 ```
-<hr />
-### sudo -s
+## sudo -s
 
 Gives root access even if you dont have the `root` username access.
 I dont know how this works, I'll have to read up about it.
 
-<hr />
-### NERDTree autoclose when file closed
+## NERDTree autoclose when file closed
 
 [NERDTree](https://github.com/scrooloose/nerdtree) by Martin Grefnell is easily
 one of the most performance-increasing vim plugins, causing you to be highly
@@ -49,8 +46,7 @@ the NERDTree automatically on closing the last editor window:
 ``` bash put this in a single line in your ~/.vimrc
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTreeType == "primary") | q | endif
 ```
-<hr />
-### Tab in vim
+## Tab in vim
 
 As followed by several programmers around the world, the best practices for
 indenting code is, to have a 4-space tab. This makes code easy to read while not
@@ -68,8 +64,7 @@ Obviously, here `expandtab` means split a tab into 4 spaces. `tabstop=4` makes
 the tab's width 4, while `shiftwidth=4` causes the automatically inserted
 indentation to also have 4 spaces.
 
-<hr />
-### Screen session names
+## Screen session names
 
 If you have a remote computer or if you connect to a remote computer, and use
 screen over ssh, you might have noticed that it's a pain to track multiple
@@ -105,8 +100,7 @@ And finally, connect to either session by just:
 ```bash reattach to the session named "scrapy" 
 screen -r scrapy
 ```
-<hr />
-### Command line options parsing in Python
+## Command line options parsing in Python
 
 Just wrote a command-line python script and want to spread the happiness to
 others by passing it on? If your last hurdle to this is adding ability to take

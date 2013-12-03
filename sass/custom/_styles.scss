@@ -1,25 +1,10 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
-aside > .collapsed-sections {
-    * {
-        display: none;
-    }
-    h1 {
-        display: block;
-    }
-    h1 > * {
-        display: block;
-    }
-}
-
 .social-box {
     background: $img-border bottom left repeat-x;
 }
 
-aside > section > h1 {
-    color: lighten($text-color, 20);
-}
 hgroup > h2 {
     font-style: italic;
 }

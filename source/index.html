@@ -7,7 +7,7 @@ layout: default
   {% for post in paginator.posts %}
   {% assign content = post.content %}
     <article>
-        {% assign no_twitter=true %}
+      {% assign no_twitter=true %}
       {% include article.html %}
     </article>
   {% endfor %}
@@ -21,10 +21,3 @@ layout: default
     {% endif %}
   </div>
 </div>
-<aside class="sidebar">
-  {% if site.blog_index_asides.size %}
-    {% include_array blog_index_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
-</aside>
