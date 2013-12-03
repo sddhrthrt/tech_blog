@@ -3,7 +3,12 @@ layout: post
 title: "Option parsing in Python scripts"
 date: 2013-07-16 15:12
 comments: true
-categories: tutorial python optparse argparse
+categories: technology howto
+tags: 
+ - tutorial 
+ - python 
+ - optparse 
+ - argparse
 ---
 
 Just wrote a command-line python script and want to spread the happiness to

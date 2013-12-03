@@ -3,7 +3,10 @@ layout: post
 title: "Dear YouTube"
 date: 2012-12-16 03:55
 comments: true
-categories: Youtube ads
+categories: technology 
+tags:
+ - Youtube 
+ - ads
 ---
 
 Dear YouTube,

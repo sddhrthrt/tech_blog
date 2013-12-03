@@ -3,7 +3,13 @@ layout: post
 title: "Customer is Paramount? Duh!"
 date: 2013-06-10 09:15
 comments: true
-categories: Customer-Care experience DOCOMO TATA telecom
+categories: journal technology
+tags: 
+ - Customer-Care
+ - experience 
+ - DOCOMO 
+ - TATA 
+ - telecom
 published: false
 ---
 

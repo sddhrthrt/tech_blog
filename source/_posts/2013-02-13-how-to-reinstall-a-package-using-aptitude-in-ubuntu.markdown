@@ -3,7 +3,10 @@ layout: post
 title: "How to reinstall a package using aptitude in Ubuntu?"
 date: 2013-02-13 13:14
 comments: true
-categories: howto ubuntu aptitude
+categories: technology howto 
+tags:
+ - ubuntu
+ - aptitude
 ---
 
 So I was installing OpenCV - compiling it from source, infact. It needs `libgobject2.0-0.so`

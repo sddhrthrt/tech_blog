@@ -3,7 +3,13 @@ layout: post
 title: "Step 1 of HCI-MP: Installing OpenGL + OpenCV"
 date: 2013-02-13 02:14
 comments: true
-categories: tutorial notes opengl opencv hci install
+categories: technology howto 
+tags:
+ - notes
+ - opengl
+ - opencv
+ - hci
+ - install
 ---
 
 I need to install OpenCV and OpenGL to work together for my project. So here are the 

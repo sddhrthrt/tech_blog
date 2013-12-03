@@ -3,7 +3,9 @@ layout: post
 title: "on parting"
 date: 2013-04-30 13:25
 comments: true
-categories: memoir
+categories: journal 
+tags:
+ - memoir
 ---
 
 It's not often that you end up with a circle of friends that become a part of

@@ -4,7 +4,13 @@ title: "How to configure an SSL site in Ubuntu?"
 date: 2013-02-13 15:48
 comments: true
 published: true
-categories: apache ubuntu howto site ssl
+categories: technology howto
+tags: 
+ - apache 
+ - ubuntu 
+ - howto 
+ - site 
+ - ssl
 ---
 
 A part of my Software Engineering project is this (specially :P) assigned task

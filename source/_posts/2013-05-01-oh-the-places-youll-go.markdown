@@ -3,7 +3,10 @@ layout: post
 title: "Oh! The places you'll go"
 date: 2013-05-01 10:18
 comments: true
-categories:  inspiration poem
+categories: journal 
+tags:
+ - inspiration 
+ - poem
 ---
 
 This is a beautiful poem I found from the movie Fracture. It's written

@@ -3,7 +3,10 @@ layout: post
 title: "First day at Intuit"
 date: 2013-05-14 14:22
 comments: true
-categories: experience Intuit
+categories: journal 
+tags: 
+ - experience
+ - Intuit
 ---
 
 

@@ -3,7 +3,9 @@ layout: post
 title: "First Post"
 date: 2012-12-08 20:43
 comments: true
-categories: intro
+categories: journal
+tags: 
+ - intro
 ---
 
 So. Finally I have a (sorta) final setup. And I'm not yet sure of the theme. But here I

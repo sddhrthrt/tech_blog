@@ -3,7 +3,11 @@ layout: post
 title: "embracing the vim way"
 date: 2013-08-18 19:05
 comments: true
-categories: vim wms customization
+categories: technology 
+tags: 
+ - vim 
+ - wms 
+ - customization
 ---
 
 There are several reasons why vim is the best friend of a keyboard warrior.

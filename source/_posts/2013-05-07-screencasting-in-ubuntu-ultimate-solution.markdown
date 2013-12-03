@@ -3,7 +3,10 @@ layout: post
 title: "Screencasting in Ubuntu - Ultimate Solution"
 date: 2013-05-07 04:00
 comments: true
-categories:  howto linux ubuntu
+categories: technology howto 
+tags:
+ - linux
+ - ubuntu
 ---
 
 While doing a couple of screencasts that we had to do as a part of our course, I

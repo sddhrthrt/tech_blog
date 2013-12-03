@@ -4,7 +4,10 @@ layout: post
 title: "Towards the end of Winter School"
 date: 2012-12-20 00:22
 comments: true
-categories: experience memoir
+categories: journal
+tags: 
+ - experience 
+ - memoir
 ---
 
 So days are flying. Our research is finally taking some shape.

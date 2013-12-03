@@ -3,7 +3,16 @@ layout: post
 title: "Trivia"
 date: 2013-07-08 11:12
 comments: true
-categories: trivia tipsntricks sudo ipython virtualenv linux, optparse, argparse, python
+categories: trivia technology
+tags: 
+ - optparse
+ - argparse
+ - sudo
+ - ipython
+ - tips
+ - tipsntricks 
+ - linux
+ - python
 ---
 
 There are many things that I find randomly on Internet that I want to remember.

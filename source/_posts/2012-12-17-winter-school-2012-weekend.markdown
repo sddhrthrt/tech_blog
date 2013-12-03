@@ -4,7 +4,10 @@ layout: post
 title: "Winter School 2012 (Weekend!)"
 date: 2012-12-17 14:31
 comments: true
-categories: experience memoir
+categories: journal
+tags: 
+ - experience 
+ - memoir
 ---
 
 Here comes the weekend. Like a spring that lost a huge attached weight, I sprang
