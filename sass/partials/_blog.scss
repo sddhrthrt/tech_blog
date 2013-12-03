@@ -44,6 +44,7 @@ article {
         @extend .sans;
         text-transform: uppercase;
         position: absolute; top: 0;
+        
       }
     }
     @media only screen and (min-width: 768px) {
@@ -58,6 +59,12 @@ article {
     background: $img-border top left repeat-x;
   }
   .entry-content & h2:first-child, header + h2 { padding-top: 0; }
+  .entry-content {
+      p {
+          font-size: 1em;
+          line-height: 1.6em;
+      }
+  }
   h2:first-child, header + h2 { background: none; }
   .feature {
     padding-top: .5em;
@@ -106,9 +113,11 @@ article {
     padding-bottom: 1em;
     @extend .sans;
     font-size: 0.85em;
-    margin-top: 2.5em;
+    margin-top: 4.5em;
     p.meta {
-      margin-bottom: .8em;
+        @extend .footer-sep;
+      padding-top: 1.5em;
+        background: $img-border top left repeat-x;
       clear: both;
       overflow: hidden;
       a.articlenav{

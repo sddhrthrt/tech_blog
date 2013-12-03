@@ -53,9 +53,9 @@ all familiar `vim` territory.
 
 ![i3](/images/vim2.jpg)
 
-Apart from being a vim-inspired wm, i3 also stresses on having a clean  
-codebase, very nice hackability and great manuals - just what you need for a
-stong open source project.  
+Apart from being a vim-inspired wm, i3 also stresses on having a clean codebase,
+very nice hackability and great manuals - just what you need for a stong open
+source project.  
 
 Overall, today has been one of those days when your laptop suddenly gets this
 huge makeover and facelift (not always). This time, I doubt if I'll ever go

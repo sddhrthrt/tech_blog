@@ -1,0 +1,14 @@
+.container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.leftmenu {
+    position: absolute;
+    margin-left: 0;
+    pargin-top: 0;
+    min-height: 100%;
+    width: 50px;
+    background: darken($page-bg, 50);
+}
+

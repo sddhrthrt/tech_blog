@@ -13,7 +13,7 @@ $header-padding-top: 1.5em !default;
 $header-padding-bottom: 0.7em !default;
 
 $footer-font-size: 0.8em !default;
-
+.footer-sep { margin-top: 3em; }
 .group { @include pie-clearfix; }
 
 body {
@@ -43,6 +43,7 @@ body {
     @extend .group;
     margin-left: $pad-min;
     margin-right: $pad-min;
+    @extend .footer-sep;
     @media only screen and (min-width: 480px) {
       margin-left: $pad-narrow;
       margin-right: $pad-narrow;
@@ -61,6 +62,7 @@ body {
     padding-top: $header-padding-top;
     padding-bottom: $header-padding-bottom;
   }
+
 }
 
 
@@ -111,7 +113,6 @@ body {
   #content {
     > div, > article {
       padding-top: $pad-wide/2;
-      padding-bottom: $pad-wide/2;
     }
   }
 }
@@ -121,3 +122,5 @@ body {
     ul, ol { margin-left: 0; }
   }
 }
+
+
