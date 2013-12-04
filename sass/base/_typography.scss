@@ -5,18 +5,20 @@
 }
 
 $blockquote: $type-border !default;
-$sans: "PT Sans", sans-serif;
-$serif: "PT Serif", sans-serif;
+$sans: "Lato", sans-serif;
+$serif: "Libre Baskerville", serif;
+$serif: "Merriweather", serif;
 $mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace !default;
-$heading-font-family: 'Vollkorn', sans-serif;
+$heading-font-family: $sans;
 $header-title-font-family: "Sail", Helvetica, Arial, sans-serif;
-$header-subtitle-font-family: "PT Serif" !default;
+$header-subtitle-font-family: $sans;
 $buttons-font-family: "Andale Mono" !default;
 
 
 // Fonts
 .heading {
   font-family: $heading-font-family;
+  font-weight: 300;
 }
 .sans { font-family: $sans; }
 .serif { font-family: $serif; }
@@ -32,7 +34,6 @@ body > header h1 {
 }
 body > header h2 {
   font-family: $header-subtitle-font-family;
-  padding-left: 8px;
 }
 
 body {
@@ -40,6 +41,7 @@ body {
   color: $text-color;
   font-size: 1.8em;
   @extend .serif;
+  font-weight: 300;
 }
 
 h1 {
@@ -66,7 +68,7 @@ h1 span{
   @extend .heading;
   text-rendering: optimizelegibility;
   margin-bottom: 1em;
-  font-weight: bold;
+  font-weight: light;
 }
 h2, section h1 {
   font-size: 1.5em;
@@ -85,7 +87,7 @@ h6, section h5, section section h4, section section section h3 {
 }
 
 article h2, article h3, article header h1{
-  font-weight: normal;
+  font-weight: light;
 }
 
 p, blockquote, ul, ol { margin-bottom: 1.5em; }
