@@ -43,16 +43,18 @@ body > header {
     margin-left: -8px;
   }
   h2 {
-    @include transition(opacity 0.5s);
-    margin: -10px 0 0 0;
+    @media only screen and (min-width: 768px) {
+        @include transition(opacity 0.5s);
+        opacity: 0;
+    }
+    margin: -10px 0 8px 0;
     @extend .sans;
-    font-size: 0.6em;
+    font-size: 12px;
     color: $subtitle-color;
     font-weight: normal;
-    letter-spacing: 1px;
+    width: 100%;
     clear: both;
     float: left;
-    opacity: 0;
   }
   hgroup {
       position: relative;
@@ -62,13 +64,21 @@ body > header {
       position: absolute;
       right: 0;
       bottom: -0.7em;
+      .cock {
+          position: absolute;
+          bottom: -24px;
+          right: 0;
+          @extend .sans;
+          font-style: italic;
+          font-size: 16px;
+          font-weight: 300;
+          color: #ccc;
+          opacity: 0.2;
+          z-index: 5;
+          @include transition(opacity .5s);
+      }
       .button {
           position: relative;
-          bottom: -40px;
-          @include transition(bottom .5s);
-          &:hover{
-              bottom: 0px;
-          }
           display: table-cell;
           font-family: $buttons-font-family;
           font-weight: bold;
@@ -80,16 +90,38 @@ body > header {
           height: $size;
           margin-left: $size/6;
           background-color: lighten($page-bg, 40);
+          &.g {
+              @media only screen and (min-width: 768px) {
+                  bottom: -25px;
+              }
+          }
+
           &.m{
+              @media only screen and (min-width: 768px) {
+                  bottom: -35px;
+              }
               background-color: rgba(204, 0, 0, 1);
               color: #eee;
           }
           &.f{
+              @media only screen and (min-width: 768px) {
+                  bottom: -40px;
+              }
               background-color: rgba(72, 100, 159, 1);
               color: #eee;
           }
           &.t{
+              @media only screen and (min-width: 768px) {
+                  bottom: -30px;
+              }
               background-color: rgba(0, 172, 237, 1);
+          }
+          @media only screen and (min-width: 768px) {
+              bottom: -40px;
+              @include transition(bottom .5s ease-in-out);
+              &:hover {
+                  bottom: 0px;
+              }
           }
       }
   }
