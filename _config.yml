@@ -4,7 +4,7 @@
 
 url: http://sddhrthrt.github.com
 title: "the Ephemeral Me"
-subtitle: "ephemeral (adj) lasting for only a short time; transitory; transient;"
+subtitle: "ephemeral (adj): lasting for only a short time; transitory; transient;"
 author: Siddhartha R Thota
 simple_search: http://google.com/search
 description: A web blog for thoughts on code, life and everything so I can store them before I forget them. 
@@ -67,10 +67,10 @@ github_skip_forks: true
 # Twitter
 twitter_user: tweetingsid
 twitter_tweet_count: 4
-twitter_show_replies: false
+twitter_show_replies: true 
 twitter_follow_button: true
 twitter_show_follower_count: false
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
