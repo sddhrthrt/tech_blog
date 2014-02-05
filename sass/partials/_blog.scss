@@ -21,17 +21,18 @@
 }
 article {
   padding-top: 1em;
-  a { @extend .force-wrap; }
+  a { @extend .force-wrap; 
+  }
   p{
     text-align:justify;
     margin-bottom: 1em;
   }
   header {
     position: relative;
-    padding-top: 2em;
       /*background: $img-border bottom left repeat-x;*/
     h1 {
       margin: 0;
+      color: $highlight;
       a { text-decoration: none;
         &:hover { text-decoration: underline; } }
     }
@@ -45,8 +46,7 @@ article {
             text-transform: uppercase;
         }
         @media only screen and (min-width: 768px) {
-            position: absolute;
-            bottom: 0;
+            display: block;
             right: 0;
             text-align: right;
         }
@@ -60,6 +60,7 @@ article {
   h2 {
     padding-top: 1.6em;
     padding-bottom: 1em;
+    color: $highlight;
     /*background: $img-border top left repeat-x;*/
   }
   .entry-content & h2:first-child, header + h2 { padding-top: 0; }
@@ -135,7 +136,7 @@ article {
 }
 article + article {
   .blog-index & {
-        /*background: $img-border top left repeat-x;*/
+        background: $img-border top left repeat-x;
   }
 }
 #content .blog-index {
@@ -144,7 +145,7 @@ article + article {
   article header { background: none; padding-bottom: 0; }
   article h1 {
     font-size: 1.8em;
-    a { color: $text-color; &:hover { text-decoration:none } }
+    a { color: $highlight; &:hover { text-decoration:none } }
   }
   a[rel=full-article] {
       @extend .navbox;

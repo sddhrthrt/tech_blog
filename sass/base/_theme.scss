@@ -1,7 +1,9 @@
-$img-border: inline-image('dotted-border.png');
+$img-border: inline-image('dotted-border-green.png');
 
 
 $monochrome: #222;
+//$nicegreen: #B5E853;
+$highlight: #B5E853;
 // Main Section Colors
 $main-bg: $monochrome !default;
 $page-bg: $monochrome !default;
@@ -11,7 +13,8 @@ $content-bg: $monochrome ;
 $header-bg: darken($monochrome, 25) !default;
 $header-border: lighten($header-bg, 15) !default;
 
-$title-color: #f2f2f2 !default;
+//$title-color: #f2f2f2 !default;
+$title-color: $highlight;
 $subtitle-color: #aaa !default;
 
 // bg image tile
@@ -22,8 +25,9 @@ $text-color-light: #888  !default;
 $type-border: #ccc !default;
 
 // Main Link Colors
-$link-color: adjust-color($text-color, $lightness: -30) !default;
-$link-color-hover: lighten($link-color, 25) !default;
+//$link-color: adjust-color($text-color, $lightness: 10) !default;
+$link-color: adjust-color($highlight, $saturation: -15) !default;
+$link-color-hover: adjust-color($link-color, $saturation: 50) !default;
 $link-color-visited: $link-color;
 $link-color-active: adjust-color($link-color-hover, $lightness: -5) !default;
 
@@ -59,6 +63,7 @@ a {
 }
 h1 {
   @include transition(color .3s);
+    $title-color: $highlight !important;
 }
 
 a {

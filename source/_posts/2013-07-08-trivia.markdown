@@ -114,3 +114,28 @@ screen -r scrapy
 Just wrote a command-line python script and want to spread the happiness to
 others by passing it on? If your last hurdle to this is adding ability to take
 command line options like those (cool) shell scripts, [here is your solution](/blog/2013/07/16/option-parsing-in-python-scripts/).
+
+## Extract link URLs from a webpage
+
+How to extract all link URLs from a webpage? Here are two ways:
+
+```bash list all links
+cat index.html |\
+    grep -o '<a .*href=.*>' | \
+    sed -e 's/<a /\n<a /g' | \
+    sed -e 's/<a .*href=['"'"'"]//' -e 's/["'"'"'].*$//' -e '/^$/ d'
+```
+
+Credits to
+[Crisboot](http://stackoverflow.com/questions/1881237/easiest-way-to-extract-the-urls-from-an-html-page-using-sed-or-awk-only)'s
+answer to a question. Now I am not entirely sure about every step of the
+command, and I'm still understanding bits of that hugeass regex, so dont ask me.
+But hey, this is meant to a (sort of) cookbook, so dont be too serious, just
+copy paste. :P
+
+Oh and a better solution, although tied to lynx, is:
+
+``` bash list all links
+lynx -dump -listonly
+```
+
