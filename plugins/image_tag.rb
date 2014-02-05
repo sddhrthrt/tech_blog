@@ -15,6 +15,21 @@
 # <img class="left half" src="http://site.com/images/ninja.png" title="Ninja Attack!" alt="Ninja Attack!">
 # <img class="left half" src="http://site.com/images/ninja.png" width="150" height="150" title="Ninja Attack!" alt="Ninja in attack posture">
 #
+# Modified by Siddhartha RT:
+# Syntax remains the same.
+# Creates a wrapper figure of class given and adds figure caption that is
+# printed according to figure's class. Nice hover effect.  
+# Basically, reusing the class and assigning it to the figure class, since my
+# css is dependent on figure's class and less on image's class.
+#
+# Output:
+# <figure class="cap-top">
+# <img src="http://site.com/images/ninja.png" title="Ninja Attack" alt="Ninja Attack">
+# <figcaption>Caption</figcaption>
+# <figure>
+#
+# CSS can be found in custom/_layout.sass
+#
 
 module Jekyll
 
@@ -39,8 +54,8 @@ module Jekyll
 
     def render(context)
       if @img
-        "<figure class='cap-top'>"+
-        "<img #{@img.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}>"+
+        "<figure class=#{@img["class"]}>"+
+        "<img #{@img.select {|k,v| k!="class"}.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}>"+
         "<figcaption>#{@img['title']}</figcaption>"+
         "</figure>"
 

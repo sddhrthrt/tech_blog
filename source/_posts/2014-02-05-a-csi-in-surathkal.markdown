@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A CSI in India"
+title: "A CSI in Surathkal"
 date: 2014-02-05 05:00
 comments: true
 categories: CSI India Experience
@@ -69,4 +69,4 @@ viral on WhatsApp. It was a close-up photo of a body lying in foetal position on
 ground.  His guts were spilled out, right arm cut, fingers scattered, head
 bludgeoned and was clearly dead. 
 
-{% img /images/nsfw-murder-pixelated.jpg NSFW %}
+{% img cap-top /images/nsfw-murder-pixelated.jpg (NSFW) Photo on WhatsApp %}
