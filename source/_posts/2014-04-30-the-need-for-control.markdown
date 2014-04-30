@@ -16,30 +16,30 @@ usual. And then I come across [this video][1] of one Mister Fred Rogers on the
 internet.  There is a children's poem that he recites, which moved me like nothing
 I remember from recent times:
 
-What do you do with the mad that you feel
-When you feel so mad you could bite?
-When the whole wide world feels oh, so wrong
-And nothing you do seems very right?
-
-What do you do? Do you punch your bag? 
-Do you pound some clay or some dough?
-Do you round up friends for a game of tag
-And see how fast you go?
-
-Its great to be able to stop
-when you plan the thing that's wrong.
-And be able to do something else instead,
-And think this song:
-
-I can stop when I want to, can stop when I wish,
-can stop stop stop any time.
-And what a good feeling to feel like this
-And know that the feeling is really mine.
-Know that there is something deep inside
-That helps us become what we can.
-
-For a girl can be some day a woman,
-And a boy can be some day a man.
+> What do you do with the mad that you feel
+> When you feel so mad you could bite?
+> When the whole wide world feels oh, so wrong
+> And nothing you do seems very right?
+> <!-- more -->
+> What do you do? Do you punch your bag? 
+> Do you pound some clay or some dough?
+> Do you round up friends for a game of tag
+> And see how fast you go?
+> 
+> Its great to be able to stop
+> when you plan the thing that's wrong.
+> And be able to do something else instead,
+> And think this song:
+> 
+> I can stop when I want to, can stop when I wish,
+> can stop stop stop any time.
+> And what a good feeling to feel like this
+> And know that the feeling is really mine.
+> Know that there is something deep inside
+> That helps us become what we can.
+> 
+> For a girl can be some day a woman,
+> And a boy can be some day a man.
 
 [Official lyrics and many other poems for children][2]
 
