@@ -43,16 +43,17 @@ I remember from recent times:
 
 [(Official lyrics and many other poems for children)][2]
 
-Mister Fred Rogers is asked to defend the $20mn that was granted by the US Govt.
-for his children's education programme. In the hearing, he is talking to the
-authoritative man who has the chair for the hearing. With his soothing polite
-voice and utterly humble way of speaking, Mister Rogers asks if he could read
-out a poem that he wrote to give an idea of what his programme gives the 
-children. The man on the seat says of course, and Mister goes on to read this
-poem. 
+[Mister Fred Rogers][3] is asked to defend the $20mn that was granted by the US
+Govt.  for his children's education programme, [Mister Rogers' Neighborhood][4].
+In the hearing, he is talking to an authoritative man who has the chair for the
+hearing. With his soothing polite voice and utterly humble way of speaking,
+Mister Rogers asks if he could read out a poem that he wrote to give an idea of
+what his programme gives the children. The man on the seat says of course, and
+Mister Rogers goes on to read this poem. 
 
-So profound the lines were, the chair replies "I think it's wonderful. I
-think you've just earned yourself a twenty million dollars!"
+How profound, meaningful and touching the lines are, is substantiated by the
+chair's reaction: he exclaims "I think it's wonderful. I think you've just
+earned yourself a twenty million dollars!"
 
 I wish I had listened to these lines when I was a child. Maybe then, just maybe,
 I'd not have said some words and done some deeds that now I want to forget
@@ -69,3 +70,5 @@ that absolutely blow my mind. Mister Rogers and his story is one such thing.
 
 [1]: https://www.youtube.com/watch?v=yXEuEUQIP3Q
 [2]: http://pbskids.org/rogers/songLyricsWhatDoYouDo.html 
+[3]: http://en.wikipedia.org/wiki/Fred_Rogers
+[4]: http://en.wikipedia.org/wiki/Mister_Rogers%27_Neighborhood
