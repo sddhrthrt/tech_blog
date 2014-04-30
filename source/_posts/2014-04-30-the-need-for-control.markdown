@@ -44,7 +44,7 @@ I remember from recent times:
 [(Official lyrics and many other poems for children)][2]
 
 [Mister Fred Rogers][3] is asked to defend the $20mn that was granted by the US
-Govt.  for his children's education programme, [Mister Rogers' Neighborhood][4].
+Govt. for his children's education programme, [Mister Rogers' Neighborhood][4].
 In the hearing, he is talking to an authoritative man who has the chair for the
 hearing. With his soothing polite voice and utterly humble way of speaking,
 Mister Rogers asks if he could read out a poem that he wrote to give an idea of
