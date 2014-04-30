@@ -20,6 +20,8 @@
 //$sidebar-pad-wide: 20px;
 //$sidebar-width-wide: 300px;
 
+$text-color-light: #888;
+
 figure.img { 
     display: block; 
     position: relative; 
@@ -117,5 +119,11 @@ figure.img:hover:before {
 } 
 .cap-bot:hover figcaption.imgcaption { 
     bottom: -30%; 
+}
+
+.entry-content hr {
+    border-top: 1px solid $text-color-light;
+    margin-top: 3em;
+    margin-bottom: 1em;
 }
 
