@@ -38,10 +38,10 @@ I remember from recent times:
 > Know that there is something deep inside   
 > That helps us become what we can.  
 > 
-> For a girl can be some day a woman,
-> And a boy can be some day a man.
+> For a girl can be some day a woman,   
+> And a boy can be some day a man.  
 
-[Official lyrics and many other poems for children][2]
+[(Official lyrics and many other poems for children)][2]
 
 Mister Fred Rogers is asked to defend the $20mn that was granted by the US Govt.
 for his children's education programme. In the hearing, he is talking to the
