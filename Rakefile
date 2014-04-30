@@ -107,9 +107,14 @@ task :new_post, :title do |t, args|
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     post.puts "comments: true"
     post.puts "categories: "
+    post.puts "keywords: "
+    post.puts "description: "
     post.puts "---"
+    post.puts "Add categories as [a,b,..] or \n- a\n- b..\n or a b c..."
+    post.puts "Add keywords as \"a,b,c..\""
+    post.puts "Add description."
   end
-  system "gvim #{filename}"
+  system "vim #{filename}"
 end
 
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")

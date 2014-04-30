@@ -23,9 +23,9 @@
 # css is dependent on figure's class and less on image's class.
 #
 # Output:
-# <figure class="cap-top">
+# <figure class="img cap-top">
 # <img src="http://site.com/images/ninja.png" title="Ninja Attack" alt="Ninja Attack">
-# <figcaption>Caption</figcaption>
+# <figcaption class="imgcaption">Caption</figcaption>
 # <figure>
 #
 # CSS can be found in custom/_layout.sass
@@ -54,9 +54,9 @@ module Jekyll
 
     def render(context)
       if @img
-        "<figure class=#{@img["class"]}>"+
+        "<figure class=\"img #{@img["class"]}\">"+
         "<img #{@img.select {|k,v| k!="class"}.collect {|k,v| "#{k}=\"#{v}\"" if v}.join(" ")}>"+
-        "<figcaption>#{@img['title']}</figcaption>"+
+        "<figcaption class=\"imgcaption\">#{@img['title']}</figcaption>"+
         "</figure>"
 
       else

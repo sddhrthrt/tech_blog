@@ -26,7 +26,7 @@ use for a very long time now - vimperator (and it's counterpart vrome) and i3.
 
 ## vimperator (vrome) - browse vim style
 
-[vimperator](www.vimperator.org/vimperator) is an add-in for firefox. It gives
+[vimperator](http://www.vimperator.org/vimperator) is an add-in for firefox. It gives
 the user the ability to use firefox as if it were vim. No I'm not talking about
 a text-based browser, I'm talking about the normal firefox with a vim-like
 keyboard interface. It adds a sleuth of abilities to firefox including
@@ -42,7 +42,7 @@ amazing.
 
 ## i3: refreshing! 
 
-Now I set out to try [i3](i3wm.org): the other thing that grabbed my attention.
+Now I set out to try [i3](http://i3wm.org): the other thing that grabbed my attention.
 While I had my antennas focused because of the term `tiling window manager`, I
 never expected something so nice. i3 turns out to be an easy-to-install tiling
 window manager that imbibes most of the vim philosophy.

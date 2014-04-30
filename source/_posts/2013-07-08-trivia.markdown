@@ -139,3 +139,15 @@ Oh and a better solution, although tied to lynx, is:
 lynx -dump -listonly
 ```
 
+## Ctrl-R backwards history search in z-shell
+
+Ever furiously tapped Ctrl-R in zsh hoping that reverse history search (the
+awesome friend that helps when you forgot what magic command you used the last time)
+and found it doesn't work? Turns out it's not bound to anything at all in vim
+mode. So go to your `~/zshrc` and add this:
+
+``` bash Ctrl-R search in zsh for reverse history search
+bindkey "^R" history-incremental-search-backward
+```
+
+

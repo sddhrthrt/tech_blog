@@ -10,7 +10,7 @@ tags:
 ---
 
 This is a beautiful poem I found from the movie Fracture. It's written
-by [Dr. Seuss](seuss). It's inspiring! 
+by [Dr. Seuss][seuss]. It's inspiring! 
 
 > Congratulations!  
 > Today is your day,  

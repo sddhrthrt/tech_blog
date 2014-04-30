@@ -20,9 +20,10 @@ $subtitle-color: #aaa !default;
 // bg image tile
 $image-bg: image-url('line-tile.png');
 
-$text-color: #bbb !default;
+$text-color: #ccc !default;
 $text-color-light: #888  !default;
-$type-border: #ccc !default;
+//$type-border: #ccc !default;
+$type-border: adjust-color($highlight, $saturation: -20) !default;
 
 // Main Link Colors
 //$link-color: adjust-color($text-color, $lightness: 10) !default;
@@ -65,7 +66,9 @@ h1 {
   @include transition(color .3s);
     $title-color: $highlight !important;
 }
-
+blockquote {
+    color: $highlight !important;
+}
 a {
   @include transition(color .3s);
 }
