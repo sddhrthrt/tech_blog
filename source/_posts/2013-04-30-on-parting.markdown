@@ -18,8 +18,8 @@ comes.
 
 It's only getting worse as we are growing older, and world is getting smaller.
 By separating I don't mean that we are no longer going to the same school but
-living in the same town, as it with our childhood friends. This time, we came
-from far off places, and we are going even further. Chances are, we are not
+living in the same town, as it was with our childhood friends. This time, we
+came from far off places, and we are going even further. Chances are, we are not
 going to meet for a long time. 
 
 Is it going to matter? I told myself that we are going to find new friends,
@@ -29,7 +29,7 @@ future, I assured myself. "Hey, it's nice to change, who knows, it might all be
 for good.. Chill.. ", I assured Raja who was apprehensive about the same
 thing.
 
-One thing is for sure. Times are not going to be as sweet as they were, during
+One thing is for sure. Times are not going to be as sweet as they were during
 the past couple of years. Neither are we going to be adolescent and in college
 again, or are we going to have a company as fine as this. Come what may, nothing
 can parallel the world we shared, the moments we spent laughing, eating or
