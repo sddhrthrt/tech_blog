@@ -3,7 +3,7 @@ layout: post
 title: "New Year"
 date: 2013-01-01 02:01
 comments: true
-categories: motivation
+categories: journal
 ---
 ### One year passed.
 

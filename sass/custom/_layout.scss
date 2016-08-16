@@ -28,7 +28,6 @@ figure.img {
     float: left; 
     overflow: hidden; 
     margin: 0 2px 2px 0; 
-
 } 
 figcaption.imgcaption { 
     position: absolute; 
@@ -48,29 +47,12 @@ figcaption.imgcaption {
 figure.img:hover figcaption.imgcaption { 
     opacity: 0; 
 } 
-//figure.img:before { 
-//    content: "?"; 
-//    position: absolute; 
-//    font-weight: 800; 
-//    background: black; 
-//    background: rgba(255,255,255,0.35); 
-//    text-shadow: 0 0 5px white; 
-//    color: black; 
-//    width: 20px; 
-//    height: 20px; 
-//    -webkit-border-radius: 10px; 
-//    -moz-border-radius: 10px; 
-//    border-radius: 10px; 
-//    border: 1px solid black;
-//    text-align: center; 
-//    font-size: 12px; 
-//    line-height: 20px; 
-//    -moz-transition: all 0.6s ease; 
-//    opacity: 0.75; 
-//} 
 figure.img:hover:before { 
     opacity: 0; 
 } 
+article img {
+    opacity: 1 !important;
+}
 .cap-left:before { 
     bottom: 10px; 
     left: 10px; 

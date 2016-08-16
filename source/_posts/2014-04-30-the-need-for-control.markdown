@@ -4,8 +4,8 @@ title: "The need for control"
 date: 2014-04-30 14:30
 comments: true
 categories: 
-- inspiration
-- poem
+ - inspiration
+ - poem
 keywords: "inspiration,poem,childhood,tv,looking back,introspection,fred,rogers,mister,neighbourhood"
 description: "Writing down my thoughts on childhood and tv, when I listened to this man speak - Mister Fred Rogers"
 ---

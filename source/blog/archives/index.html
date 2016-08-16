@@ -1,11 +1,27 @@
 ---
-layout: page
+layout: default
 title: Blog Archive
-footer: false
 ---
 
+<h2>Journal posts</h2>
 <div id="blog-archives">
 {% for post in site.posts reverse %}
+    {% if post.categories contains "journal" %}
+        {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+        {% unless year == this_year %}
+          {% assign year = this_year %}
+          <h2>{{ year }}</h2>
+        {% endunless %}
+        <article>
+          {% include archive_post.html %}
+        </article>
+    {% endif %}
+    {% endfor %}
+</div>
+<h2>Other posts</h2>
+<div id="blog-archives">
+{% for post in site.posts reverse %}
+{% unless post.categories contains "journal" %}
 {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 {% unless year == this_year %}
   {% assign year = this_year %}
@@ -14,5 +30,7 @@ footer: false
 <article>
   {% include archive_post.html %}
 </article>
+{% endunless %}
 {% endfor %}
 </div>
+
